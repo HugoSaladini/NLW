@@ -19,7 +19,7 @@ Next Level Week da Rocketseat. 🚀
 
 - Aplicar movimento/dinamismo de tela apenas com CSS
 - Estruturação de um README
-- Comandos de utuilização de git com github
+- Comandos de utilização de git com github
 
 ## 📧 Contato
 
